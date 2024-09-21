@@ -1,4 +1,4 @@
-## Hi there 👋
+## gdsc 자바 기본 스터디 👋
 
 <!--
 **gdscjava/gdscjava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
